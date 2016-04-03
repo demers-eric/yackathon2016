@@ -1,4 +1,6 @@
-Festival,Latitude,Longitude,Mois
-Festiblues,45.56,-73.65,July
-Festival de musique de Lachine,45.4326559,-73.6789513,July
-Other,45.71,-73.65,July
+Festival,Latitude,Longitude,Mois,startDay,endDay,startMonth,endMonth
+Festiblues,45.56,-73.65,July,11,14,8,8
+Festival de musique de Lachine,45.4326559,-73.6789513,July,26,18,6,7
+Other,45.71,-73.65,July,,,,
+Mutek,45.50745,-73.56609,July,1,6,7,7
+Eureka,45.5051016,-73.5498626,June,10,12,6,6
